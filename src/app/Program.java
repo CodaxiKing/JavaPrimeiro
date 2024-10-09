@@ -5,6 +5,8 @@ import java.util.Locale;
 public class Program {
 
     public static void main(String[] args) {
+        /* AROOOO */
+        //tendi
         double x = 10.35784;
         Locale.setDefault(Locale.US);
         System.out.printf("%.2f%n", x);
